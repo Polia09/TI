@@ -1,0 +1,14 @@
+D:\Laba\ТИ\ti5(2)\ti5(2)\bin\Debug\net8.0\ti5(2).exe
+D:\Laba\ТИ\ti5(2)\ti5(2)\bin\Debug\net8.0\ti5(2).deps.json
+D:\Laba\ТИ\ti5(2)\ti5(2)\bin\Debug\net8.0\ti5(2).runtimeconfig.json
+D:\Laba\ТИ\ti5(2)\ti5(2)\bin\Debug\net8.0\ti5(2).dll
+D:\Laba\ТИ\ti5(2)\ti5(2)\bin\Debug\net8.0\ti5(2).pdb
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ti5(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ti5(2).AssemblyInfoInputs.cache
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ti5(2).AssemblyInfo.cs
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ti5(2).csproj.CoreCompileInputs.cache
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ti5(2).dll
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\refint\ti5(2).dll
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ti5(2).pdb
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ti5(2).genruntimeconfig.cache
+D:\Laba\ТИ\ti5(2)\ti5(2)\obj\Debug\net8.0\ref\ti5(2).dll

@@ -1,0 +1,14 @@
+D:\ТИ\laba1(1)\laba1(1)\bin\Debug\laba1(1).exe.config
+D:\ТИ\laba1(1)\laba1(1)\bin\Debug\laba1(1).exe
+D:\ТИ\laba1(1)\laba1(1)\bin\Debug\laba1(1).pdb
+D:\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).csproj.AssemblyReference.cache
+D:\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).csproj.CoreCompileInputs.cache
+D:\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).exe
+D:\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).pdb
+D:\Laba\ТИ\laba1(1)\laba1(1)\bin\Debug\laba1(1).exe.config
+D:\Laba\ТИ\laba1(1)\laba1(1)\bin\Debug\laba1(1).exe
+D:\Laba\ТИ\laba1(1)\laba1(1)\bin\Debug\laba1(1).pdb
+D:\Laba\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).csproj.AssemblyReference.cache
+D:\Laba\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).csproj.CoreCompileInputs.cache
+D:\Laba\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).exe
+D:\Laba\ТИ\laba1(1)\laba1(1)\obj\Debug\laba1(1).pdb

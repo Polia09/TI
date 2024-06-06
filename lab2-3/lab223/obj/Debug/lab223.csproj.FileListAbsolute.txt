@@ -1,0 +1,7 @@
+D:\Documents\лабы ТИ\lab223\lab223\bin\Debug\lab223.exe.config
+D:\Documents\лабы ТИ\lab223\lab223\bin\Debug\lab223.exe
+D:\Documents\лабы ТИ\lab223\lab223\bin\Debug\lab223.pdb
+D:\Documents\лабы ТИ\lab223\lab223\obj\Debug\lab223.csproj.AssemblyReference.cache
+D:\Documents\лабы ТИ\lab223\lab223\obj\Debug\lab223.csproj.CoreCompileInputs.cache
+D:\Documents\лабы ТИ\lab223\lab223\obj\Debug\lab223.exe
+D:\Documents\лабы ТИ\lab223\lab223\obj\Debug\lab223.pdb

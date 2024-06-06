@@ -1,0 +1,7 @@
+D:\ТИ\laba1(2)\laba1(2)\bin\Debug\laba1(2).exe.config
+D:\ТИ\laba1(2)\laba1(2)\bin\Debug\laba1(2).exe
+D:\ТИ\laba1(2)\laba1(2)\bin\Debug\laba1(2).pdb
+D:\ТИ\laba1(2)\laba1(2)\obj\Debug\laba1(2).csproj.AssemblyReference.cache
+D:\ТИ\laba1(2)\laba1(2)\obj\Debug\laba1(2).csproj.CoreCompileInputs.cache
+D:\ТИ\laba1(2)\laba1(2)\obj\Debug\laba1(2).exe
+D:\ТИ\laba1(2)\laba1(2)\obj\Debug\laba1(2).pdb

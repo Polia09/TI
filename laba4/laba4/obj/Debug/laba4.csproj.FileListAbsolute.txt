@@ -1,0 +1,10 @@
+D:\Laba\ТИ\laba4\laba4\bin\Debug\laba4.exe.config
+D:\Laba\ТИ\laba4\laba4\bin\Debug\laba4.exe
+D:\Laba\ТИ\laba4\laba4\bin\Debug\laba4.pdb
+D:\Laba\ТИ\laba4\laba4\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laba\ТИ\laba4\laba4\bin\Debug\BouncyCastle.Crypto.xml
+D:\Laba\ТИ\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+D:\Laba\ТИ\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+D:\Laba\ТИ\laba4\laba4\obj\Debug\laba4.csproj.Up2Date
+D:\Laba\ТИ\laba4\laba4\obj\Debug\laba4.exe
+D:\Laba\ТИ\laba4\laba4\obj\Debug\laba4.pdb
